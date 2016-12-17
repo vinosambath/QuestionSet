@@ -1,0 +1,5 @@
+Vinod Kumar Baradwaj is in need of a calculator which will find the divison of two numbers N and M with precision set to C. Help him calculate without hitting any exceptions!
+
+0 <= n <= 1000
+0 <= m <= 1000
+0 <= pos <= 10

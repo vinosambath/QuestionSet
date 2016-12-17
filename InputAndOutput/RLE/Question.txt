@@ -1,0 +1,8 @@
+Mahesh and Mani are close friends. Mahesh is senior to mani in office. Mani is preparing for a programming competition. Mahesh, being a geek tested mani with a problem. Mani is busy in performance testing. Please Help him, (Secret Mahesh shouldn't know this)!
+
+Mani is given a string S, Encode it in such a way that :  'consecutive character count' followed by '!' followed by the 'character'. Do not encode the characters unless they lead to compression !
+
+input format
+
+1 <= length of the string <= 100
+string for runlength encoding (including lower and upper case letters)

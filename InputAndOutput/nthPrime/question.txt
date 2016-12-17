@@ -1,0 +1,3 @@
+Allen is doing a test with Prime Numbers. For that he needs to generate the Nth Prime Number. Given a number N print the Nth Prime Number.
+
+1 <= N <= 1000
